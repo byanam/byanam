@@ -14,7 +14,7 @@ i design and build stuff for the web. mostly into simple tools, clean interfaces
 ---
 
 ### 🛠️ projects
-- **[notes 101](https://notes--101.web.app)** — a minimal, dark-themed note editor with a4 paper page layouts, freehand drawing layer, 100+ google fonts, pdf export, and cloud sync.  
+- **[notes 101](https://notes--101.web.app)** — a minimal, note editor with a4 paper page layouts, freehand drawing layer, 100+ google fonts, pdf export, and cloud sync.  
   [github repo](https://github.com/byanam/Webnotes) · [live website](https://notes--101.web.app)
 
 ---
