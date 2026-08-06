@@ -1,9 +1,7 @@
 <div align="center">
 
   <!-- Animated Header Banner -->
-  <img src="https://raw.githubusercontent.com/byanam/Webnotes/main/assets/banner.svg" alt="Anam Razzaque Banner" width="100%" />
-
-  <br><br>
+  
 
   <!-- Title & Bio -->
   <h1>Hi 👋, I'm Anam Razzaque</h1>
