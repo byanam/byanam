@@ -1,4 +1,4 @@
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2500&pause=1000&color=0130EC&vCenter=true&width=550&lines=hey%2C+i'm+anam+👋;hola%2C+soy+anam+👋;namaste%2C+main+anam+hoon+🙏;assalamu+alaikum%2C+i'm+anam+✨;bonjour%2C+je+suis+anam+👋;konnichiwa%2C+anam+desu+🌸" alt="Typing Animation" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=0130EC&center=false&vCenter=true&width=600&lines=hey%2C+i+am+anam;hola%2C+soy+anam;namaste%2C+main+anam+hoon;assalamu+alaikum%2C+i+am+anam;bonjour%2C+je+suis+anam;konnichiwa%2C+anam+desu)](https://github.com/byanam)
 
 bca student (ai & ml) at galgotias university.
 
