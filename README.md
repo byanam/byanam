@@ -1,4 +1,4 @@
-# hey, i'm anam 👋
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2500&pause=1000&color=0130EC&vCenter=true&width=550&lines=hey%2C+i'm+anam+👋;hola%2C+soy+anam+👋;namaste%2C+main+anam+hoon+🙏;assalamu+alaikum%2C+i'm+anam+✨;bonjour%2C+je+suis+anam+👋;konnichiwa%2C+anam+desu+🌸" alt="Typing Animation" />
 
 bca student (ai & ml) at galgotias university.
 
@@ -14,12 +14,6 @@ i design and build stuff for the web. mostly into simple tools, clean interfaces
 ---
 
 ### 🛠️ projects
-- **[notes 101](https://notes--101.web.app)** — a minimal, note editor with a4 paper page layouts, freehand drawing layer, 100+ google fonts, pdf export, and cloud sync.  
-  [github repo](https://github.com/byanam/Webnotes) · [live website](https://notes--101.web.app)
-
----
-
-### 📬 reach me
-- **linkedin**: [anam-razzaque](https://www.linkedin.com/in/anam-razzaque/)
-- **email**: [anamrazzaque.work@gmail.com](mailto:anamrazzaque.work@gmail.com)
-- **github**: [byanam](https://github.com/byanam)
+- **[playstation store ui](https://github.com/byanam/PlayStation-Store-UI)** — a modern concept landing page with an infinite 3d diagonal game scroll, scroll-driven gradient morphs, and micro-interactions.
+- **[notes 101](https://notes--101.web.app)** — a minimal note editor with a4 paper page layouts, freehand drawing layer, 100+ google fonts, pdf export, and cloud sync.  
+  [github repo](https://github.com/byanam/notes-101)
