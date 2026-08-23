@@ -14,6 +14,7 @@ i design and build stuff for the web. mostly into simple tools, clean interfaces
 ---
 
 ###  projects
-- **[playstation store ui](https://github.com/byanam/PlayStation-Store-UI)** — a modern concept landing page with an infinite 3d diagonal game scroll, scroll-driven gradient morphs, and micro-interactions.
+- **[playstation store ui](https://byanam.github.io/PlayStation-Store-UI/)** — a modern concept landing page with an infinite 3d diagonal game scroll, scroll-driven gradient morphs, and micro-interactions.  
+  [live demo](https://byanam.github.io/PlayStation-Store-UI/) · [github repo](https://github.com/byanam/PlayStation-Store-UI)
 - **[notes 101](https://notes--101.web.app)** — a minimal note editor with a4 paper page layouts, freehand drawing layer, 100+ google fonts, pdf export, and cloud sync.  
-  [github repo](https://github.com/byanam/notes-101)
+  [live demo](https://notes--101.web.app) · [github repo](https://github.com/byanam/notes-101)
