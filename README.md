@@ -1,8 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=FFFFFF&center=false&vCenter=true&width=600&lines=hey%2C+i+am+anam;hola%2C+soy+anam;namaste%2C+main+anam+hoon;assalamu+alaikum%2C+ana+anam;bonjour%2C+je+suis+anam;konnichiwa%2C+anam+desu)](https://github.com/byanam)
 
-UI/UX designer who builds what I design
-
-I like making software thats interesting and has thoughtful interactions, and just enough engineering to make the idea real.
+UI/UX designer who likes designing websites and digital products, experimenting with ideas, and giving them just enough engineering to make them real.
 
 ---
 
