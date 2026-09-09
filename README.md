@@ -12,7 +12,7 @@ UI/UX designer who likes designing websites and digital products, experimenting 
 ---
 
 ###  projects
-- **[playstation store ui](https://byanam.github.io/PlayStation-Store-UI/)** — a modern concept landing page with an infinite 3d diagonal game scroll, scroll-driven gradient morphs, and micro-interactions.  
+- **[playstation store ui](https://byanam.github.io/PlayStation-Store-UI/)** — landing page for the playstation store, thought id give it a go  
   [live demo](https://byanam.github.io/PlayStation-Store-UI/) · [github repo](https://github.com/byanam/PlayStation-Store-UI)
-- **[notes 101](https://notes--101.web.app)** — a minimal note editor with a4 paper page layouts, freehand drawing layer, 100+ google fonts, pdf export, and cloud sync.  
+- **[notes 101](https://notes--101.web.app)** — another note taking app, yeaah ik ik 😩, note the most original idea but mine looks like an IDE + Photoshop cause why not   
   [live demo](https://notes--101.web.app) · [github repo](https://github.com/byanam/notes-101)
