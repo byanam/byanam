@@ -36,11 +36,11 @@ UI/UX designer & frontend developer — crafting clean, high-polish interfaces a
 
 ---
 
-### 🔥 streak
+### 🟩 streak
 
 <p align="left">
   <a href="https://github.com/byanam">
-    <img src="https://streak-stats.demolab.com?user=byanam&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
+    <img src="https://ghchart.rshah.org/2ea44f/byanam" alt="byanam's GitHub Contributions" />
   </a>
 </p>
 
