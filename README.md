@@ -50,3 +50,10 @@ UI/UX designer who likes designing websites and digital products, experimenting 
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=byanam&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="150" />
   </a>
 </p>
+
+---
+
+### 📬 get in touch
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/byanam)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anamrazzaque@gmail.com)
