@@ -14,5 +14,7 @@ UI/UX designer who likes designing websites and digital products, experimenting 
 ###  projects
 - **[playstation store ui](https://byanam.github.io/PlayStation-Store-UI/)** — landing page for the playstation store, thought id give it a go  
   [live demo](https://byanam.github.io/PlayStation-Store-UI/) · [github repo](https://github.com/byanam/PlayStation-Store-UI)
+- **[search by color](https://github.com/byanam/searchbycolor-private)** — chromatic visual discovery engine and aesthetic wallpaper finder powered by Astro SSR, Delta-E color distance matching, and real-time dual-spectrum filters.  
+  [github repo](https://github.com/byanam/searchbycolor-private)
 - **[notes 101](https://notes--101.web.app)** — another note taking app, yeaah ik ik 😩, note the most original idea but mine looks like an IDE + Photoshop cause why not   
   [live demo](https://notes--101.web.app) · [github repo](https://github.com/byanam/notes101)
