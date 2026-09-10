@@ -16,6 +16,10 @@ UI/UX designer who likes designing websites and digital products, experimenting 
   [live demo](https://byanam.github.io/PlayStation-Store-UI/) · [github repo](https://github.com/byanam/PlayStation-Store-UI)
 - **[notes 101](https://notes--101.web.app)** — another note taking app, yeaah ik ik, not the most original idea but mine looks like an IDE + Photoshop cause why not   
   [live demo](https://notes--101.web.app) · [github repo](https://github.com/byanam/notes101)
+- **[search by color](https://github.com/byanam/searchbycolor-private)** — visual search tool to discover wallpapers and inspiration by picking exact hex colors or two-tone combos  
+  [github repo](https://github.com/byanam/searchbycolor-private)
+- **[unbrief](https://github.com/byanam/unbrief)** — client proposal builder that turns messy briefs and calls into scoped 3-tier proposals with pricing options  
+  [github repo](https://github.com/byanam/unbrief)
 
 ---
 
