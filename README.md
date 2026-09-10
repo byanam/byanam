@@ -4,7 +4,7 @@ UI/UX designer & frontend developer — crafting clean, high-polish interfaces a
 
 ---
 
-### 🛠️ development stack
+### development stack
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -15,7 +15,7 @@ UI/UX designer & frontend developer — crafting clean, high-polish interfaces a
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://firebase.google.com/)
 
-### 🎨 design toolkit
+### design toolkit
 
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://figma.com/)
 [![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)](https://adobe.com/photoshop)
@@ -23,30 +23,30 @@ UI/UX designer & frontend developer — crafting clean, high-polish interfaces a
 
 ---
 
-### 🚀 featured projects
+### featured projects
 
 - **[playstation store ui](https://byanam.github.io/PlayStation-Store-UI/)** — landing page for the playstation store, thought id give it a go  
   [live demo](https://byanam.github.io/PlayStation-Store-UI/) · [github repo](https://github.com/byanam/PlayStation-Store-UI)
 - **[search by color](https://github.com/byanam/searchbycolor-private)** — chromatic visual discovery engine and aesthetic wallpaper finder powered by Astro SSR, Delta-E color distance matching, and real-time dual-spectrum filters.  
   [github repo](https://github.com/byanam/searchbycolor-private)
-- **[notes 101](https://notes--101.web.app)** — another note taking app, yeaah ik ik 😩, note the most original idea but mine looks like an IDE + Photoshop cause why not   
+- **[notes 101](https://notes--101.web.app)** — note taking app with an IDE and Photoshop inspired interface  
   [live demo](https://notes--101.web.app) · [github repo](https://github.com/byanam/notes101)
 - **[unbrief](https://github.com/byanam/unbrief)** — client proposal and reverse-brief engine designed for modern studios, featuring interactive deliverables, real-time pricing tiers, and agency-grade scope estimation.  
   [github repo](https://github.com/byanam/unbrief)
 
 ---
 
-### 🟩 streak
+### streak
 
 <p align="left">
   <a href="https://github.com/byanam">
-    <img src="https://ghchart.rshah.org/2ea44f/byanam" alt="byanam's GitHub Contributions" />
+    <img src="./profile-contributions.svg" alt="GitHub Contributions" />
   </a>
 </p>
 
 ---
 
-### 📬 get in touch
+### get in touch
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/byanam)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anamrazzaque@gmail.com)
