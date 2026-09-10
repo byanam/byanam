@@ -32,3 +32,16 @@ UI/UX designer who likes designing websites and digital products, experimenting 
   [live demo](https://notes--101.web.app) · [github repo](https://github.com/byanam/notes101)
 - **[unbrief](https://github.com/byanam/unbrief)** — client proposal and reverse-brief engine designed for modern studios, featuring interactive deliverables, real-time pricing tiers, and agency-grade scope estimation.  
   [github repo](https://github.com/byanam/unbrief)
+
+---
+
+### 📊 activity & stats
+
+<p align="left">
+  <a href="https://github.com/byanam">
+    <img src="https://github-readme-stats.vercel.app/api?username=byanam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="byanam's GitHub Stats" height="150" />
+  </a>
+  <a href="https://github.com/byanam">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byanam&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="150" />
+  </a>
+</p>
