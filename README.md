@@ -45,3 +45,8 @@ UI/UX designer who likes designing websites and digital products, experimenting 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byanam&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="150" />
   </a>
 </p>
+<p align="left">
+  <a href="https://github.com/byanam">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=byanam&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="150" />
+  </a>
+</p>
