@@ -36,19 +36,11 @@ UI/UX designer & frontend developer — crafting clean, high-polish interfaces a
 
 ---
 
-### 📊 activity & stats
+### 🔥 streak
 
 <p align="left">
   <a href="https://github.com/byanam">
-    <img src="https://github-readme-stats.vercel.app/api?username=byanam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="byanam's GitHub Stats" height="150" />
-  </a>
-  <a href="https://github.com/byanam">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byanam&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="150" />
-  </a>
-</p>
-<p align="left">
-  <a href="https://github.com/byanam">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=byanam&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="150" />
+    <img src="https://streak-stats.demolab.com?user=byanam&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
   </a>
 </p>
 
