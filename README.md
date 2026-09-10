@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=FFFFFF&center=false&vCenter=true&width=600&lines=hey%2C+i+am+anam;hola%2C+soy+anam;namaste%2C+main+anam+hoon;assalamu+alaikum%2C+ana+anam;bonjour%2C+je+suis+anam;konnichiwa%2C+anam+desu)](https://github.com/byanam)
 
-UI/UX designer who likes designing websites and digital products, experimenting with ideas, and giving them just enough engineering to make them real.
+UI/UX designer & frontend developer — crafting clean, high-polish interfaces and building them into fast, interactive web experiences. Mostly into minimalist tools, subtle micro-interactions, and thoughtful software.
 
 ---
 
@@ -23,7 +23,8 @@ UI/UX designer who likes designing websites and digital products, experimenting 
 
 ---
 
-###  projects
+### 🚀 featured projects
+
 - **[playstation store ui](https://byanam.github.io/PlayStation-Store-UI/)** — landing page for the playstation store, thought id give it a go  
   [live demo](https://byanam.github.io/PlayStation-Store-UI/) · [github repo](https://github.com/byanam/PlayStation-Store-UI)
 - **[search by color](https://github.com/byanam/searchbycolor-private)** — chromatic visual discovery engine and aesthetic wallpaper finder powered by Astro SSR, Delta-E color distance matching, and real-time dual-spectrum filters.  
@@ -57,3 +58,9 @@ UI/UX designer who likes designing websites and digital products, experimenting 
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/byanam)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anamrazzaque@gmail.com)
+
+---
+
+<div align="center">
+  <sub>Crafted with precision & care • © 2026 Anam Razzaque</sub>
+</div>
