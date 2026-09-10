@@ -18,3 +18,5 @@ UI/UX designer who likes designing websites and digital products, experimenting 
   [github repo](https://github.com/byanam/searchbycolor-private)
 - **[notes 101](https://notes--101.web.app)** — another note taking app, yeaah ik ik 😩, note the most original idea but mine looks like an IDE + Photoshop cause why not   
   [live demo](https://notes--101.web.app) · [github repo](https://github.com/byanam/notes101)
+- **[unbrief](https://github.com/byanam/unbrief)** — client proposal and reverse-brief engine designed for modern studios, featuring interactive deliverables, real-time pricing tiers, and agency-grade scope estimation.  
+  [github repo](https://github.com/byanam/unbrief)
